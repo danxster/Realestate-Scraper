@@ -1,4 +1,4 @@
-Realestate-Scraper, created by Daniel Dean
+Realestate-Scraper
 ==================
 
 This is a scraper designed to crawl realestate.com.au
