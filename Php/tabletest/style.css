@@ -1,0 +1,81 @@
+body 
+{
+	color: black; 
+	background-color: #FFFFFF; 
+	font-family: Verdana, sans-serif; 
+	font-size: 10pt;
+	width: 616px;
+}
+table
+{
+	width: 675px; 
+	border-collapse: collapse; 
+	padding: 0px 0px 0px 0px;
+	font-size: 10pt;
+	color: white;
+}
+td 
+{
+	padding: 1px 0px 0px 0px; 
+	text-decoration: none; 
+	font-size: 10pt;
+	width: 150px;
+}
+input
+{
+	position: relative;
+	left: 4px;
+	font-family: Verdana, sans-serif;
+	padding: 0px 0px 0px 0px; 
+	text-decoration: none; 
+	font-size: 10pt;
+	width: 130px;
+}
+a, img 
+{
+	padding: 0px; 
+	color: black; 
+	text-decoration: none; 
+	border-width: 0px; 
+	font-family: Verdana; 
+	font-size: 10pt;
+}
+.del
+{
+	position: relative;
+	top: 2px;
+	left: 6px;
+	padding: 0px;
+	border: 0px;
+	margin: 0px;
+}
+.update
+{
+	position: relative;
+	top: 2px;
+	left: 6px;
+	padding: 0px;
+	border: 0px;
+	margin: 0px 3px 0 0;
+	height: 16px;
+	width: 16px;
+}
+.add
+{
+	margin: 5px 5px 5px 0px;
+	width: 110px;
+}
+.button
+{
+	width: 60px;
+}
+.addform
+{
+	width: 720px;
+	margin-bottom: -14px;
+	padding: 0px 0 0 0;
+}
+.empnum
+{
+	width: 60px
+}
